@@ -1,0 +1,101 @@
+Family,Molecule,Formula,Carbon,Hydrogen,Oxygen,Functional Group,Weight (g/mol),Boiling Point (°C),Carbon Chain Length,Has Oxygen,Polar,Hydrogen Bonding,Rotatable Bonds,Heavy Atom Count
+Alkane,Methane,CH₄,1,4,0,Alkane,16.04,-161.5,1,0,0,0,0,1
+Alkane,Ethane,C₂H₆,2,6,0,Alkane,30.07,-88.6,2,0,0,0,0,2
+Alkane,Propane,C₃H₈,3,8,0,Alkane,44.1,-42.1,3,0,0,0,0,3
+Alkane,Butane,C₄H₁₀,4,10,0,Alkane,58.12,-0.5,4,0,0,0,1,4
+Alkane,Pentane,C₅H₁₂,5,12,0,Alkane,72.15,36.1,5,0,0,0,2,5
+Alkane,Hexane,C₆H₁₄,6,14,0,Alkane,86.18,68.7,6,0,0,0,3,6
+Alkane,Heptane,C₇H₁₆,7,16,0,Alkane,100.2,98.4,7,0,0,0,4,7
+Alkane,Octane,C₈H₁₈,8,18,0,Alkane,114.23,125.6,8,0,0,0,5,8
+Alkane,Nonane,C₉H₂₀,9,20,0,Alkane,128.25,150.8,9,0,0,0,6,9
+Alkane,Decane,C₁₀H₂₂,10,22,0,Alkane,142.28,174.1,10,0,0,0,7,10
+Alcohol,Methanol,CH₃OH,1,4,1,Alcohol (-OH),32.04,64.7,1,1,1,1,0,2
+Alcohol,Ethanol,C₂H₅OH,2,6,1,Alcohol (-OH),46.07,78.4,2,1,1,1,0,3
+Alcohol,1-Propanol,C₃H₇OH,3,8,1,Alcohol (-OH),60.1,97.2,3,1,1,1,1,4
+Alcohol,2-Propanol,C₃H₈O,3,8,1,Alcohol (-OH),60.1,82.6,3,1,1,1,0,4
+Alcohol,1-Butanol,C₄H₉OH,4,10,1,Alcohol (-OH),74.12,117.1,4,1,1,1,2,5
+Alcohol,2-Butanol,C₄H₁₀O,4,10,1,Alcohol (-OH),74.12,99.5,4,1,1,1,1,5
+Alcohol,tert-Butanol,C₄H₁₀O,4,10,1,Alcohol (-OH),74.12,82.4,4,1,1,1,0,5
+Alcohol,1-Pentanol,C₅H₁₂O,5,12,1,Alcohol (-OH),88.15,137.9,5,1,1,1,3,6
+Alcohol,2-Pentanol,C₅H₁₂O,5,12,1,Alcohol (-OH),88.15,119.3,5,1,1,1,2,6
+Alcohol,3-Pentanol,C₅H₁₂O,5,12,1,Alcohol (-OH),88.15,115.3,5,1,1,1,2,6
+Alcohol,1-Hexanol,C₆H₁₃OH,6,14,1,Alcohol (-OH),102.17,157,6,1,1,1,4,7
+Alcohol,2-Hexanol,C₆H₁₄O,6,14,1,Alcohol (-OH),102.17,136.6,6,1,1,1,3,7
+Alcohol,Cyclohexanol,C₆H₁₂O,6,12,1,Alcohol (-OH),100.16,161.1,6,1,1,1,0,7
+Alcohol,1-Heptanol,C₇H₁₆O,7,16,1,Alcohol (-OH),116.2,176,7,1,1,1,5,8
+Alcohol,1-Octanol,C₈H₁₇OH,8,18,1,Alcohol (-OH),130.23,195,8,1,1,1,6,9
+Ether,Dimethyl ether,CH₃OCH₃,2,6,1,Ether (R-O-R),46.07,−24.8,1,1,1,0,0,3
+Ether,Ethyl methyl ether,C₃H₈O,3,8,1,Ether (R-O-R),60.1,7.4,3,1,1,0,1,4
+Ether,Diethyl ether,C₄H₁₀O,4,10,1,Ether (R-O-R),74.12,34.6,2,1,1,0,2,5
+Ether,Methyl propyl ether,C₄H₁₀O,4,10,1,Ether (R-O-R),74.12,39,4,1,1,0,2,5
+Ether,Methyl isobutyl ether,C₅H₁₂O,5,12,1,Ether (R-O-R),88.15,58,5,1,1,0,2,6
+Ether,Methyl butyl ether,C₅H₁₂O,5,12,1,Ether (R-O-R),88.15,70.3,5,1,1,0,3,6
+Ether,MTBE (methyl tert-butyl ether),C₅H₁₂O,5,12,1,Ether (R-O-R),88.15,55.2,5,1,1,0,1,6
+Ether,Ethyl propyl ether,C₅H₁₂O,5,12,1,Ether (R-O-R),88.15,63.6,5,1,1,0,3,6
+Ether,Ethyl isopropyl ether,C₅H₁₂O,5,12,1,Ether (R-O-R),88.15,54,5,1,1,0,2,6
+Ether,Diisopropyl ether,C₆H₁₄O,6,14,1,Ether (R-O-R),102.17,68.5,6,1,1,0,2,7
+Ether,Dipropyl ether,C₆H₁₄O,6,14,1,Ether (R-O-R),102.17,90.5,6,1,1,0,4,7
+Ether,ETBE (ethyl tert-butyl ether),C₆H₁₄O,6,14,1,Ether (R-O-R),102.17,72,6,1,1,0,2,7
+Ether,Dibutyl ether,C₈H₁₈O,8,18,1,Ether (R-O-R),130.23,142.4,8,1,1,0,6,9
+Ether,Dihexyl ether,C₁₂H₂₆O,12,26,1,Ether (R-O-R),186.33,226,12,1,1,0,10,13
+Ester,Methyl formate,C₂H₄O₂,2,4,2,Ester (-COO-),60.05,31.5,2,1,1,0,0,3
+Ester,Methyl acetate,C₃H₆O₂,3,6,2,Ester (-COO-),74.08,56.9,2,1,1,0,1,4
+Ester,Ethyl acetate,C₄H₈O₂,4,8,2,Ester (-COO-),88.11,77.1,2,1,1,0,2,5
+Ester,Methyl propionate,C₄H₈O₂,4,8,2,Ester (-COO-),88.11,79.8,4,1,1,0,2,5
+Ester,Isopropyl acetate,C₅H₁₀O₂,5,10,2,Ester (-COO-),102.13,88.6,5,1,1,0,2,6
+Ester,Propyl acetate,C₅H₁₀O₂,5,10,2,Ester (-COO-),102.13,101.6,5,1,1,0,3,6
+Ester,Ethyl propionate,C₅H₁₀O₂,5,10,2,Ester (-COO-),102.13,99.1,5,1,1,0,3,6
+Ester,Methyl butyrate,C₅H₁₀O₂,5,10,2,Ester (-COO-),102.13,102.3,5,1,1,0,3,6
+Ester,Methyl valerate,C₆H₁₂O₂,6,12,2,Ester (-COO-),116.16,127.3,6,1,1,0,4,7
+Ester,Butyl acetate,C₆H₁₂O₂,6,12,2,Ester (-COO-),116.16,126.1,6,1,1,0,4,7
+Ester,Ethyl butyrate,C₆H₁₂O₂,6,12,2,Ester (-COO-),116.16,121.5,6,1,1,0,4,7
+Ester,Propyl butyrate,C₇H₁₄O₂,7,14,2,Ester (-COO-),130.18,142.7,7,1,1,0,5,8
+Ester,Butyl propionate,C₇H₁₄O₂,7,14,2,Ester (-COO-),130.18,146.8,7,1,1,0,5,8
+Ester,Ethyl valerate,C₇H₁₄O₂,7,14,2,Ester (-COO-),130.18,145.5,7,1,1,0,5,8
+Ester,Pentyl acetate,C₇H₁₄O₂,7,14,2,Ester (-COO-),130.18,149.2,7,1,1,0,5,8
+Ketone,Acetone,C₃H₆O,3,6,1,Ketone (C=O),58.08,56.1,3,1,1,0,0,4
+Ketone,2-Butanone,C₄H₈O,4,8,1,Ketone (C=O),72.11,79.6,4,1,1,0,1,5
+Ketone,3-Methyl-2-butanone,C₅H₁₀O,5,10,1,Ketone (C=O),86.13,94.4,5,1,1,0,1,6
+Ketone,2-Pentanone,C₅H₁₀O,5,10,1,Ketone (C=O),86.13,102.3,5,1,1,0,2,6
+Ketone,3-Pentanone,C₅H₁₀O,5,10,1,Ketone (C=O),86.13,101.7,5,1,1,0,2,6
+Ketone,2-Hexanone,C₆H₁₂O,6,12,1,Ketone (C=O),100.16,127.2,6,1,1,0,3,7
+Ketone,3-Hexanone,C₆H₁₂O,6,12,1,Ketone (C=O),100.16,123.3,6,1,1,0,3,7
+Ketone,Cyclohexanone,C₆H₁₀O,6,10,1,Ketone (C=O),98.14,155.6,6,1,1,0,0,7
+Ketone,4-Methyl-2-pentanone (MIBK),C₆H₁₂O,6,12,1,Ketone (C=O),100.16,116.2,6,1,1,0,3,8
+Ketone,2-Heptanone,C₇H₁₄O,7,14,1,Ketone (C=O),114.19,151.5,7,1,1,0,4,8
+Ketone,2-Octanone,C₈H₁₆O,8,16,1,Ketone (C=O),128.21,172.9,8,1,1,0,5,9
+Ketone,3-Octanone,C₈H₁₆O,8,16,1,Ketone (C=O),128.21,167.5,8,1,1,0,5,9
+Ketone,2-Nonanone,C₉H₁₈O,9,18,1,Ketone (C=O),142.24,195.3,9,1,1,0,6,10
+Ketone,2-Decanone,C₁₀H₂₀O,10,20,1,Ketone (C=O),156.27,209.5,10,1,1,0,7,11
+Aromatic,Benzene,C₆H₆,6,6,0,Aromatic,78.11,80.1,6,0,0,0,0,6
+Aromatic,Toluene,C₇H₈,7,8,0,Aromatic,92.14,110.6,7,0,0,0,0,7
+Aromatic,Ethylbenzene,C₈H₁₀,8,10,0,Aromatic,106.17,136.2,8,0,0,0,1,8
+Aromatic,o-Xylene,C₈H₁₀,8,10,0,Aromatic,106.17,144.4,8,0,0,0,0,8
+Aromatic,m-Xylene,C₈H₁₀,8,10,0,Aromatic,106.17,139.1,8,0,0,0,0,8
+Aromatic,p-Xylene,C₈H₁₀,8,10,0,Aromatic,106.17,138.4,8,0,0,0,0,8
+Aromatic,Styrene,C₈H₈,8,8,0,Aromatic,104.15,145,8,0,0,0,1,8
+Aromatic,Cumene (isopropylbenzene),C₉H₁₂,9,12,0,Aromatic,120.19,152.4,9,0,0,0,2,9
+Aromatic,Propylbenzene,C₉H₁₂,9,12,0,Aromatic,120.19,159.2,9,0,0,0,2,9
+Aromatic,"Mesitylene (1,3,5-trimethylbenzene)",C₉H₁₂,9,12,0,Aromatic,120.19,164.7,9,0,0,0,0,9
+Aromatic,n-Butylbenzene,C₁₀H₁₄,10,14,0,Aromatic,134.22,183.3,10,0,0,0,3,10
+Aromatic,sec-Butylbenzene,C₁₀H₁₄,10,14,0,Aromatic,134.22,173.3,10,0,0,0,2,10
+Aromatic,tert-Butylbenzene,C₁₀H₁₄,10,14,0,Aromatic,134.22,169.1,10,0,0,0,0,10
+Aldehyde,Formaldehyde,CH₂O,1,2,1,Aldehyde (-CHO),30.03,-19.1,1,1,1,0,0,2
+Aldehyde,Acetaldehyde,C₂H₄O,2,4,1,Aldehyde (-CHO),44.05,20.2,2,1,1,0,0,3
+Aldehyde,Propanal,C₃H₆O,3,6,1,Aldehyde (-CHO),58.08,48.8,3,1,1,0,1,4
+Aldehyde,Butanal,C₄H₈O,4,8,1,Aldehyde (-CHO),72.11,74.8,4,1,1,0,2,5
+Aldehyde,Pentanal,C₅H₁₀O,5,10,1,Aldehyde (-CHO),86.13,103.4,5,1,1,0,3,6
+Aldehyde,Hexanal,C₆H₁₂O,6,12,1,Aldehyde (-CHO),100.16,131,6,1,1,0,4,7
+Aldehyde,Heptanal,C₇H₁₄O,7,14,1,Aldehyde (-CHO),114.19,152.8,7,1,1,0,5,8
+Aldehyde,Octanal,C₈H₁₆O,8,16,1,Aldehyde (-CHO),128.21,171,8,1,1,0,6,9
+Aldehyde,Nonanal,C₉H₁₈O,9,18,1,Aldehyde (-CHO),142.24,191,9,1,1,0,7,10
+Aldehyde,Benzaldehyde,C₇H₆O,7,6,1,Aldehyde (-CHO),106.12,178.1,7,1,1,0,1,8
+Carboxylic Acid,Formic acid,CH₂O₂ (HCOOH),1,2,2,Carboxylic Acid (-COOH),46.03,100.8,1,1,1,1,0,3
+Carboxylic Acid,Acetic acid,C₂H₄O₂,2,4,2,Carboxylic Acid (-COOH),60.05,118.1,2,1,1,1,0,4
+Carboxylic Acid,Propanoic acid,C₃H₆O₂,3,6,2,Carboxylic Acid (-COOH),74.08,141.1,3,1,1,1,1,5
+Carboxylic Acid,Butanoic acid,C₄H₈O₂,4,8,2,Carboxylic Acid (-COOH),88.11,163.5,4,1,1,1,2,6
+Carboxylic Acid,Pentanoic acid,C₅H₁₀O₂,5,10,2,Carboxylic Acid (-COOH),102.13,185.7,5,1,1,1,3,7
+Carboxylic Acid,Hexanoic acid,C₆H₁₂O₂,6,12,2,Carboxylic Acid (-COOH),116.16,205.8,6,1,1,1,4,8
+Carboxylic Acid,Heptanoic acid,C₇H₁₄O₂,7,14,2,Carboxylic Acid (-COOH),130.18,223,7,1,1,1,5,9
+Carboxylic Acid,Octanoic acid,C₈H₁₆O₂,8,16,2,Carboxylic Acid (-COOH),144.21,239.3,8,1,1,1,6,10
+Carboxylic Acid,Nonanoic acid,C₉H₁₈O₂,9,18,2,Carboxylic Acid (-COOH),158.24,254,9,1,1,1,7,11
